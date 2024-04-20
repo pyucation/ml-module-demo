@@ -161,3 +161,5 @@ cython_debug/
 #.idea/
 
 pytorch/Beispiele/data
+pytorch/Übungen/Lösungen/data
+data
